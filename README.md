@@ -18,5 +18,5 @@ If you wish to extend the theme them you can do so in the `theme.ts` file in the
 After your changes are made you can run the following command so that Chakra can generate typing information for your theme:
 
 ```bash
-generate-theme-types
+yarn generate-theme-types
 ```
