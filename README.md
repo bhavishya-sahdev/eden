@@ -3,7 +3,7 @@
 To get the project going you can run the following commands:
 
 ```bash
-    yarn && yarn start
+yarn && yarn start
 ```
 
 ## Introduction
